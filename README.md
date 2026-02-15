@@ -55,3 +55,14 @@ The project follows an end-to-end analytical pipeline:
 - Pivot Tables & Advanced Formulas
 - Goal Seek & Solver
 - VBA Automation
+
+## Project Structure
+credit-card-customer-analytics-excel
+│
+├── README.md
+└── case_study_01_credit_card_customer_analytics
+    ├── excel_model
+    ├── dashboards
+    ├── reports
+    └── documentation
+        └── data_dictionary.txt
