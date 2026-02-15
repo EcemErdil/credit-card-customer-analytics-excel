@@ -57,6 +57,7 @@ The project follows an end-to-end analytical pipeline:
 - VBA Automation
 
 ## Project Structure
+```text
 credit-card-customer-analytics-excel
 │
 ├── README.md
@@ -66,3 +67,4 @@ credit-card-customer-analytics-excel
     ├── reports
     └── documentation
         └── data_dictionary.txt
+```
